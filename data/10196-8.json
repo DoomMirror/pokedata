@@ -1,0 +1,121 @@
+{
+  "pokemon": [
+    {
+      "name": "charizard-gmax",
+      "dex_id": 6,
+      "weight": 10000,
+      "height": 280,
+      "exp_yield": 240,
+      "abilities": [
+        {
+          "ability": {
+            "name": "blaze"
+          }
+        },
+        {
+          "ability": {
+            "name": "solar-power"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "fire"
+          }
+        },
+        {
+          "type": {
+            "name": "flying"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 78,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 84,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 78,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 109,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 85,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 100,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [],
+      "machineMoves": [],
+      "eggMoves": [],
+      "specy": {
+        "evolution_chain": {
+          "id": 2,
+          "species": [
+            {
+              "name": "charmander",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "charmeleon",
+              "pre_evolution": 4,
+              "evolution_condition": [
+                {
+                  "level": 16,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "charizard",
+              "pre_evolution": 5,
+              "evolution_condition": [
+                {
+                  "level": 36,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Flame Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

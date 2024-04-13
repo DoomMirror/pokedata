@@ -1,0 +1,981 @@
+{
+  "pokemon": [
+    {
+      "name": "skeledirge",
+      "dex_id": 911,
+      "weight": 3265,
+      "height": 16,
+      "exp_yield": 265,
+      "abilities": [
+        {
+          "ability": {
+            "name": "blaze"
+          }
+        },
+        {
+          "ability": {
+            "name": "unaware"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "fire"
+          }
+        },
+        {
+          "type": {
+            "name": "ghost"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 104,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 75,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 100,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 110,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 75,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 66,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [
+        {
+          "move": {
+            "name": "torch-song",
+            "power": 80,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 0
+        },
+        {
+          "move": {
+            "name": "ember",
+            "power": 40,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "tackle",
+            "power": 40,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "leer",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "lick",
+            "power": 30,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 7
+        },
+        {
+          "move": {
+            "name": "round",
+            "power": 60,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 10
+        },
+        {
+          "move": {
+            "name": "scary-face",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 12
+        },
+        {
+          "move": {
+            "name": "bite",
+            "power": 60,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 15
+        },
+        {
+          "move": {
+            "name": "incinerate",
+            "power": 60,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 17
+        },
+        {
+          "move": {
+            "name": "snarl",
+            "power": 55,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 24
+        },
+        {
+          "move": {
+            "name": "roar",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 28
+        },
+        {
+          "move": {
+            "name": "flamethrower",
+            "power": 90,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 32
+        },
+        {
+          "move": {
+            "name": "shadow-ball",
+            "power": 80,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 38
+        },
+        {
+          "move": {
+            "name": "hyper-voice",
+            "power": 90,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 42
+        },
+        {
+          "move": {
+            "name": "will-o-wisp",
+            "power": null,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 47
+        },
+        {
+          "move": {
+            "name": "hex",
+            "power": 65,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 47
+        },
+        {
+          "move": {
+            "name": "fire-blast",
+            "power": 110,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 58
+        },
+        {
+          "move": {
+            "name": "overheat",
+            "power": 130,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 64
+        }
+      ],
+      "machineMoves": [
+        {
+          "move": {
+            "name": "body-slam",
+            "power": 85,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "take-down",
+            "power": 90,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "flamethrower",
+            "power": 90,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "hyper-beam",
+            "power": 150,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "solar-beam",
+            "power": 120,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "fire-spin",
+            "power": 35,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "earthquake",
+            "power": 100,
+            "type": {
+              "name": "ground"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "dig",
+            "power": 80,
+            "type": {
+              "name": "ground"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "night-shade",
+            "power": null,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "fire-blast",
+            "power": 110,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "rest",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "substitute",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "protect",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "scary-face",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "mud-slap",
+            "power": 20,
+            "type": {
+              "name": "ground"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "outrage",
+            "power": 120,
+            "type": {
+              "name": "dragon"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "endure",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "sleep-talk",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "encore",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "sunny-day",
+            "power": null,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "crunch",
+            "power": 80,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "shadow-ball",
+            "power": 80,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "heat-wave",
+            "power": 95,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "will-o-wisp",
+            "power": null,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "facade",
+            "power": 70,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "helping-hand",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "imprison",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "hyper-voice",
+            "power": 90,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "blast-burn",
+            "power": 150,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "overheat",
+            "power": 130,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "flare-blitz",
+            "power": 120,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "seed-bomb",
+            "power": 80,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "earth-power",
+            "power": 90,
+            "type": {
+              "name": "ground"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "giga-impact",
+            "power": 150,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "shadow-claw",
+            "power": 70,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "thunder-fang",
+            "power": 65,
+            "type": {
+              "name": "electric"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "fire-fang",
+            "power": 65,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "zen-headbutt",
+            "power": 80,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "flame-charge",
+            "power": 50,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "hex",
+            "power": 65,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "fire-pledge",
+            "power": 80,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "snarl",
+            "power": 55,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "disarming-voice",
+            "power": 40,
+            "type": {
+              "name": "fairy"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "stomping-tantrum",
+            "power": 75,
+            "type": {
+              "name": "ground"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "tera-blast",
+            "power": 80,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "roar",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "heat-crash",
+            "power": null,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "poltergeist",
+            "power": 110,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "temper-flare",
+            "power": 75,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "scorching-sands",
+            "power": 70,
+            "type": {
+              "name": "ground"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "curse",
+            "power": null,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "alluring-voice",
+            "power": 80,
+            "type": {
+              "name": "fairy"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        }
+      ],
+      "eggMoves": [],
+      "specy": {
+        "evolution_chain": {
+          "id": 479,
+          "species": [
+            {
+              "name": "fuecoco",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "crocalor",
+              "pre_evolution": 909,
+              "evolution_condition": [
+                {
+                  "level": 16,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "skeledirge",
+              "pre_evolution": 910,
+              "evolution_condition": [
+                {
+                  "level": 36,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Singer Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

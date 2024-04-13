@@ -1,0 +1,783 @@
+{
+  "pokemon": [
+    {
+      "name": "deino",
+      "dex_id": 633,
+      "weight": 173,
+      "height": 8,
+      "exp_yield": 60,
+      "abilities": [
+        {
+          "ability": {
+            "name": "hustle"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "dark"
+          }
+        },
+        {
+          "type": {
+            "name": "dragon"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 52,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 65,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 50,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 45,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 50,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 38,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [
+        {
+          "move": {
+            "name": "tackle",
+            "power": 40,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "dragon-rage",
+            "power": null,
+            "type": {
+              "name": "dragon"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "focus-energy",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 4
+        },
+        {
+          "move": {
+            "name": "bite",
+            "power": 60,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 9
+        },
+        {
+          "move": {
+            "name": "headbutt",
+            "power": 70,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 12
+        },
+        {
+          "move": {
+            "name": "dragon-breath",
+            "power": 60,
+            "type": {
+              "name": "dragon"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 17
+        },
+        {
+          "move": {
+            "name": "roar",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 20
+        },
+        {
+          "move": {
+            "name": "crunch",
+            "power": 80,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 25
+        },
+        {
+          "move": {
+            "name": "slam",
+            "power": 80,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 28
+        },
+        {
+          "move": {
+            "name": "dragon-pulse",
+            "power": 85,
+            "type": {
+              "name": "dragon"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 32
+        },
+        {
+          "move": {
+            "name": "work-up",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 38
+        },
+        {
+          "move": {
+            "name": "dragon-rush",
+            "power": 100,
+            "type": {
+              "name": "dragon"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 42
+        },
+        {
+          "move": {
+            "name": "body-slam",
+            "power": 85,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 48
+        },
+        {
+          "move": {
+            "name": "scary-face",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 52
+        },
+        {
+          "move": {
+            "name": "hyper-voice",
+            "power": 90,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 58
+        },
+        {
+          "move": {
+            "name": "outrage",
+            "power": 120,
+            "type": {
+              "name": "dragon"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 62
+        }
+      ],
+      "machineMoves": [
+        {
+          "move": {
+            "name": "roar",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "strength",
+            "power": 80,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "thunder-wave",
+            "power": null,
+            "type": {
+              "name": "electric"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "toxic",
+            "power": null,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "double-team",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "rest",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "substitute",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "thief",
+            "power": 60,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "protect",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "swagger",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "attract",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "return",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "frustration",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "hidden-power",
+            "power": 60,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "rain-dance",
+            "power": null,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "sunny-day",
+            "power": null,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "psych-up",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "rock-smash",
+            "power": 40,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "torment",
+            "power": null,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "facade",
+            "power": 70,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "taunt",
+            "power": null,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "round",
+            "power": 60,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "incinerate",
+            "power": 60,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "dragon-tail",
+            "power": 60,
+            "type": {
+              "name": "dragon"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "work-up",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        }
+      ],
+      "eggMoves": [
+        {
+          "move": {
+            "name": "snore",
+            "power": 50,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "spite",
+            "power": null,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "outrage",
+            "power": 120,
+            "type": {
+              "name": "dragon"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "sleep-talk",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "uproar",
+            "power": 90,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "superpower",
+            "power": 120,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "hyper-voice",
+            "power": 90,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "dark-pulse",
+            "power": 80,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "aqua-tail",
+            "power": 90,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "dragon-pulse",
+            "power": 85,
+            "type": {
+              "name": "dragon"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "earth-power",
+            "power": 90,
+            "type": {
+              "name": "ground"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "zen-headbutt",
+            "power": 80,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "draco-meteor",
+            "power": 130,
+            "type": {
+              "name": "dragon"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        }
+      ],
+      "specy": {
+        "evolution_chain": {
+          "id": 323,
+          "species": [
+            {
+              "name": "deino",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "zweilous",
+              "pre_evolution": 633,
+              "evolution_condition": [
+                {
+                  "level": 50,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "hydreigon",
+              "pre_evolution": 634,
+              "evolution_condition": [
+                {
+                  "level": 64,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Irate Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

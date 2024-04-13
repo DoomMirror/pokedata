@@ -1,0 +1,83 @@
+{
+  "pokemon": [
+    {
+      "name": "melmetal",
+      "dex_id": 809,
+      "weight": 8000,
+      "height": 25,
+      "exp_yield": 300,
+      "abilities": [
+        {
+          "ability": {
+            "name": "iron-fist"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "steel"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 135,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 143,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 143,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 80,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 65,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 34,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [],
+      "machineMoves": [],
+      "eggMoves": [],
+      "specy": {
+        "evolution_chain": {
+          "id": 429,
+          "species": [
+            {
+              "name": "melmetal",
+              "pre_evolution": 808,
+              "evolution_condition": []
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Hex Nut Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,665 @@
+{
+  "pokemon": [
+    {
+      "name": "foongus",
+      "dex_id": 590,
+      "weight": 10,
+      "height": 2,
+      "exp_yield": 59,
+      "abilities": [
+        {
+          "ability": {
+            "name": "effect-spore"
+          }
+        },
+        {
+          "ability": {
+            "name": "regenerator"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "grass"
+          }
+        },
+        {
+          "type": {
+            "name": "poison"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 69,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 55,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 45,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 55,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 55,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 15,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [
+        {
+          "move": {
+            "name": "absorb",
+            "power": 20,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "growth",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 6
+        },
+        {
+          "move": {
+            "name": "astonish",
+            "power": 30,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 8
+        },
+        {
+          "move": {
+            "name": "bide",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 12
+        },
+        {
+          "move": {
+            "name": "mega-drain",
+            "power": 40,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 15
+        },
+        {
+          "move": {
+            "name": "ingrain",
+            "power": null,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 18
+        },
+        {
+          "move": {
+            "name": "feint-attack",
+            "power": 60,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 20
+        },
+        {
+          "move": {
+            "name": "sweet-scent",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 24
+        },
+        {
+          "move": {
+            "name": "giga-drain",
+            "power": 75,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 28
+        },
+        {
+          "move": {
+            "name": "toxic",
+            "power": null,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 32
+        },
+        {
+          "move": {
+            "name": "synthesis",
+            "power": null,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 35
+        },
+        {
+          "move": {
+            "name": "clear-smog",
+            "power": 50,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 39
+        },
+        {
+          "move": {
+            "name": "solar-beam",
+            "power": 120,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 43
+        },
+        {
+          "move": {
+            "name": "rage-powder",
+            "power": null,
+            "type": {
+              "name": "bug"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 45
+        },
+        {
+          "move": {
+            "name": "spore",
+            "power": null,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 50
+        }
+      ],
+      "machineMoves": [
+        {
+          "move": {
+            "name": "solar-beam",
+            "power": 120,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "toxic",
+            "power": null,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "double-team",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "flash",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "rest",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "substitute",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "protect",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "sludge-bomb",
+            "power": 90,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "swagger",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "attract",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "return",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "frustration",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "hidden-power",
+            "power": 60,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "rain-dance",
+            "power": null,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "sunny-day",
+            "power": null,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "facade",
+            "power": 70,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "payback",
+            "power": 50,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "energy-ball",
+            "power": 90,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "grass-knot",
+            "power": null,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "venoshock",
+            "power": 65,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "round",
+            "power": 60,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        }
+      ],
+      "eggMoves": [
+        {
+          "move": {
+            "name": "snore",
+            "power": 50,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "giga-drain",
+            "power": 75,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "sleep-talk",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "synthesis",
+            "power": null,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "gastro-acid",
+            "power": null,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "worry-seed",
+            "power": null,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "seed-bomb",
+            "power": 80,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "foul-play",
+            "power": 95,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "after-you",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        }
+      ],
+      "specy": {
+        "evolution_chain": {
+          "id": 300,
+          "species": [
+            {
+              "name": "foongus",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "amoonguss",
+              "pre_evolution": 590,
+              "evolution_condition": [
+                {
+                  "level": 39,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Mushroom Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

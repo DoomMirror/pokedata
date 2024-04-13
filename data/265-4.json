@@ -1,0 +1,210 @@
+{
+  "pokemon": [
+    {
+      "name": "wurmple",
+      "dex_id": 265,
+      "weight": 36,
+      "height": 3,
+      "exp_yield": 56,
+      "abilities": [
+        {
+          "ability": {
+            "name": "shield-dust"
+          }
+        },
+        {
+          "ability": {
+            "name": "run-away"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "bug"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 45,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 45,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 35,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 20,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 30,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 20,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [
+        {
+          "move": {
+            "name": "tackle",
+            "power": 40,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "string-shot",
+            "power": null,
+            "type": {
+              "name": "bug"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "poison-sting",
+            "power": 15,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 5
+        },
+        {
+          "move": {
+            "name": "bug-bite",
+            "power": 60,
+            "type": {
+              "name": "bug"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 15
+        }
+      ],
+      "machineMoves": [],
+      "eggMoves": [
+        {
+          "move": {
+            "name": "snore",
+            "power": 50,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        }
+      ],
+      "specy": {
+        "evolution_chain": {
+          "id": 135,
+          "species": [
+            {
+              "name": "wurmple",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "silcoon",
+              "pre_evolution": 265,
+              "evolution_condition": [
+                {
+                  "level": 7,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "beautifly",
+              "pre_evolution": 266,
+              "evolution_condition": [
+                {
+                  "level": 10,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "cascoon",
+              "pre_evolution": 265,
+              "evolution_condition": [
+                {
+                  "level": 7,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "dustox",
+              "pre_evolution": 268,
+              "evolution_condition": [
+                {
+                  "level": 10,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Worm Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

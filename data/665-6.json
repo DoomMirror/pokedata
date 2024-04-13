@@ -1,0 +1,193 @@
+{
+  "pokemon": [
+    {
+      "name": "spewpa",
+      "dex_id": 665,
+      "weight": 84,
+      "height": 3,
+      "exp_yield": 75,
+      "abilities": [
+        {
+          "ability": {
+            "name": "shed-skin"
+          }
+        },
+        {
+          "ability": {
+            "name": "friend-guard"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "bug"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 45,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 22,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 60,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 27,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 30,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 29,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [
+        {
+          "move": {
+            "name": "harden",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "protect",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 9
+        }
+      ],
+      "machineMoves": [
+        {
+          "move": {
+            "name": "protect",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        }
+      ],
+      "eggMoves": [
+        {
+          "move": {
+            "name": "iron-defense",
+            "power": null,
+            "type": {
+              "name": "steel"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "bug-bite",
+            "power": 60,
+            "type": {
+              "name": "bug"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "electroweb",
+            "power": 55,
+            "type": {
+              "name": "electric"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        }
+      ],
+      "specy": {
+        "evolution_chain": {
+          "id": 342,
+          "species": [
+            {
+              "name": "scatterbug",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "spewpa",
+              "pre_evolution": 664,
+              "evolution_condition": [
+                {
+                  "level": 9,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "vivillon",
+              "pre_evolution": 665,
+              "evolution_condition": [
+                {
+                  "level": 12,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Scatterdust Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

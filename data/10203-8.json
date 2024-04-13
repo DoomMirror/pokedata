@@ -1,0 +1,107 @@
+{
+  "pokemon": [
+    {
+      "name": "kingler-gmax",
+      "dex_id": 99,
+      "weight": 10000,
+      "height": 190,
+      "exp_yield": 166,
+      "abilities": [
+        {
+          "ability": {
+            "name": "hyper-cutter"
+          }
+        },
+        {
+          "ability": {
+            "name": "shell-armor"
+          }
+        },
+        {
+          "ability": {
+            "name": "sheer-force"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "water"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 55,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 130,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 115,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 50,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 50,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 75,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [],
+      "machineMoves": [],
+      "eggMoves": [],
+      "specy": {
+        "evolution_chain": {
+          "id": 43,
+          "species": [
+            {
+              "name": "krabby",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "kingler",
+              "pre_evolution": 98,
+              "evolution_condition": [
+                {
+                  "level": 28,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Pincer Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

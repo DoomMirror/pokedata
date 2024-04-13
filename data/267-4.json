@@ -1,0 +1,751 @@
+{
+  "pokemon": [
+    {
+      "name": "beautifly",
+      "dex_id": 267,
+      "weight": 284,
+      "height": 10,
+      "exp_yield": 178,
+      "abilities": [
+        {
+          "ability": {
+            "name": "swarm"
+          }
+        },
+        {
+          "ability": {
+            "name": "rivalry"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "bug"
+          }
+        },
+        {
+          "type": {
+            "name": "flying"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 60,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 70,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 50,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 100,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 50,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 65,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [
+        {
+          "move": {
+            "name": "absorb",
+            "power": 20,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "absorb",
+            "power": 20,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 10
+        },
+        {
+          "move": {
+            "name": "gust",
+            "power": 40,
+            "type": {
+              "name": "flying"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 13
+        },
+        {
+          "move": {
+            "name": "stun-spore",
+            "power": null,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 17
+        },
+        {
+          "move": {
+            "name": "morning-sun",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 20
+        },
+        {
+          "move": {
+            "name": "mega-drain",
+            "power": 40,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 24
+        },
+        {
+          "move": {
+            "name": "whirlwind",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 27
+        },
+        {
+          "move": {
+            "name": "attract",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 31
+        },
+        {
+          "move": {
+            "name": "silver-wind",
+            "power": 60,
+            "type": {
+              "name": "bug"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 34
+        },
+        {
+          "move": {
+            "name": "giga-drain",
+            "power": 75,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 38
+        },
+        {
+          "move": {
+            "name": "bug-buzz",
+            "power": 90,
+            "type": {
+              "name": "bug"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 41
+        }
+      ],
+      "machineMoves": [
+        {
+          "move": {
+            "name": "hyper-beam",
+            "power": 150,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "solar-beam",
+            "power": 120,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "toxic",
+            "power": null,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "psychic",
+            "power": 90,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "double-team",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "flash",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "rest",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "substitute",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "thief",
+            "power": 60,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "protect",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "giga-drain",
+            "power": 75,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "endure",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "swagger",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "attract",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "sleep-talk",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "return",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "frustration",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "safeguard",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "hidden-power",
+            "power": 60,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "sunny-day",
+            "power": null,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "shadow-ball",
+            "power": 80,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "facade",
+            "power": 70,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "secret-power",
+            "power": 70,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "silver-wind",
+            "power": 60,
+            "type": {
+              "name": "bug"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "aerial-ace",
+            "power": 60,
+            "type": {
+              "name": "flying"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "roost",
+            "power": null,
+            "type": {
+              "name": "flying"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "natural-gift",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "u-turn",
+            "power": 70,
+            "type": {
+              "name": "bug"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "energy-ball",
+            "power": 90,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "giga-impact",
+            "power": 150,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "defog",
+            "power": null,
+            "type": {
+              "name": "flying"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "captivate",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        }
+      ],
+      "eggMoves": [
+        {
+          "move": {
+            "name": "swift",
+            "power": 60,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "snore",
+            "power": 50,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "twister",
+            "power": 40,
+            "type": {
+              "name": "dragon"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "air-cutter",
+            "power": 60,
+            "type": {
+              "name": "flying"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "signal-beam",
+            "power": 75,
+            "type": {
+              "name": "bug"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "ominous-wind",
+            "power": 60,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        }
+      ],
+      "specy": {
+        "evolution_chain": {
+          "id": 135,
+          "species": [
+            {
+              "name": "wurmple",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "silcoon",
+              "pre_evolution": 265,
+              "evolution_condition": [
+                {
+                  "level": 7,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "beautifly",
+              "pre_evolution": 266,
+              "evolution_condition": [
+                {
+                  "level": 10,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "cascoon",
+              "pre_evolution": 265,
+              "evolution_condition": [
+                {
+                  "level": 7,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "dustox",
+              "pre_evolution": 268,
+              "evolution_condition": [
+                {
+                  "level": 10,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Butterfly Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

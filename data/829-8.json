@@ -1,0 +1,541 @@
+{
+  "pokemon": [
+    {
+      "name": "gossifleur",
+      "dex_id": 829,
+      "weight": 22,
+      "height": 4,
+      "exp_yield": 50,
+      "abilities": [
+        {
+          "ability": {
+            "name": "cotton-down"
+          }
+        },
+        {
+          "ability": {
+            "name": "regenerator"
+          }
+        },
+        {
+          "ability": {
+            "name": "effect-spore"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "grass"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 40,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 40,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 60,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 40,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 60,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 10,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [
+        {
+          "move": {
+            "name": "sing",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "leafage",
+            "power": 40,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "rapid-spin",
+            "power": 50,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 4
+        },
+        {
+          "move": {
+            "name": "sweet-scent",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 8
+        },
+        {
+          "move": {
+            "name": "razor-leaf",
+            "power": 55,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 12
+        },
+        {
+          "move": {
+            "name": "round",
+            "power": 60,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 16
+        },
+        {
+          "move": {
+            "name": "leaf-tornado",
+            "power": 65,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 21
+        },
+        {
+          "move": {
+            "name": "synthesis",
+            "power": null,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 24
+        },
+        {
+          "move": {
+            "name": "hyper-voice",
+            "power": 90,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 28
+        },
+        {
+          "move": {
+            "name": "aromatherapy",
+            "power": null,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 32
+        },
+        {
+          "move": {
+            "name": "leaf-storm",
+            "power": 130,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 36
+        }
+      ],
+      "machineMoves": [
+        {
+          "move": {
+            "name": "solar-beam",
+            "power": 120,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "light-screen",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "rest",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "substitute",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "snore",
+            "power": 50,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "protect",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "giga-drain",
+            "power": 75,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "endure",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "charm",
+            "power": null,
+            "type": {
+              "name": "fairy"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "attract",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "sleep-talk",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "sunny-day",
+            "power": null,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "facade",
+            "power": 70,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "helping-hand",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "hyper-voice",
+            "power": 90,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "bullet-seed",
+            "power": 25,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "magical-leaf",
+            "power": 60,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "energy-ball",
+            "power": 90,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "leaf-storm",
+            "power": 130,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "grass-knot",
+            "power": null,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "round",
+            "power": 60,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "grassy-terrain",
+            "power": null,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "pollen-puff",
+            "power": 90,
+            "type": {
+              "name": "bug"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        }
+      ],
+      "eggMoves": [
+        {
+          "move": {
+            "name": "grassy-glide",
+            "power": 55,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        }
+      ],
+      "specy": {
+        "evolution_chain": {
+          "id": 437,
+          "species": [
+            {
+              "name": "gossifleur",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "eldegoss",
+              "pre_evolution": 829,
+              "evolution_condition": [
+                {
+                  "level": 20,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Flowering Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

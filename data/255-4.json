@@ -1,0 +1,706 @@
+{
+  "pokemon": [
+    {
+      "name": "torchic",
+      "dex_id": 255,
+      "weight": 25,
+      "height": 4,
+      "exp_yield": 62,
+      "abilities": [
+        {
+          "ability": {
+            "name": "blaze"
+          }
+        },
+        {
+          "ability": {
+            "name": "speed-boost"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "fire"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 45,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 60,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 40,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 70,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 50,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 45,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [
+        {
+          "move": {
+            "name": "scratch",
+            "power": 40,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "growl",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "focus-energy",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 7
+        },
+        {
+          "move": {
+            "name": "ember",
+            "power": 40,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 10
+        },
+        {
+          "move": {
+            "name": "peck",
+            "power": 35,
+            "type": {
+              "name": "flying"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 16
+        },
+        {
+          "move": {
+            "name": "sand-attack",
+            "power": null,
+            "type": {
+              "name": "ground"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 19
+        },
+        {
+          "move": {
+            "name": "fire-spin",
+            "power": 35,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 25
+        },
+        {
+          "move": {
+            "name": "quick-attack",
+            "power": 40,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 28
+        },
+        {
+          "move": {
+            "name": "slash",
+            "power": 70,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 34
+        },
+        {
+          "move": {
+            "name": "mirror-move",
+            "power": null,
+            "type": {
+              "name": "flying"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 37
+        },
+        {
+          "move": {
+            "name": "flamethrower",
+            "power": 90,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 43
+        }
+      ],
+      "machineMoves": [
+        {
+          "move": {
+            "name": "swords-dance",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "cut",
+            "power": 50,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "flamethrower",
+            "power": 90,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "strength",
+            "power": 80,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "dig",
+            "power": 80,
+            "type": {
+              "name": "ground"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "toxic",
+            "power": null,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "double-team",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "fire-blast",
+            "power": 110,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "rest",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "rock-slide",
+            "power": 75,
+            "type": {
+              "name": "rock"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "substitute",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "protect",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "endure",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "swagger",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "attract",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "sleep-talk",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "return",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "frustration",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "hidden-power",
+            "power": 60,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "sunny-day",
+            "power": null,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "rock-smash",
+            "power": 40,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "will-o-wisp",
+            "power": null,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "facade",
+            "power": 70,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "secret-power",
+            "power": 70,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "overheat",
+            "power": 130,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "rock-tomb",
+            "power": 60,
+            "type": {
+              "name": "rock"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "aerial-ace",
+            "power": 60,
+            "type": {
+              "name": "flying"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "natural-gift",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "shadow-claw",
+            "power": 70,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "captivate",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        }
+      ],
+      "eggMoves": [
+        {
+          "move": {
+            "name": "swift",
+            "power": 60,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "snore",
+            "power": 50,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "mud-slap",
+            "power": 20,
+            "type": {
+              "name": "ground"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "heat-wave",
+            "power": 95,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "helping-hand",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "bounce",
+            "power": 85,
+            "type": {
+              "name": "flying"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "last-resort",
+            "power": 140,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        }
+      ],
+      "specy": {
+        "evolution_chain": {
+          "id": 131,
+          "species": [
+            {
+              "name": "torchic",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "combusken",
+              "pre_evolution": 255,
+              "evolution_condition": [
+                {
+                  "level": 16,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "blaziken",
+              "pre_evolution": 256,
+              "evolution_condition": [
+                {
+                  "level": 36,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Chick Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,843 @@
+{
+  "pokemon": [
+    {
+      "name": "throh",
+      "dex_id": 538,
+      "weight": 555,
+      "height": 13,
+      "exp_yield": 163,
+      "abilities": [
+        {
+          "ability": {
+            "name": "guts"
+          }
+        },
+        {
+          "ability": {
+            "name": "inner-focus"
+          }
+        },
+        {
+          "ability": {
+            "name": "mold-breaker"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "fighting"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 120,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 100,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 85,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 30,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 85,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 45,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [
+        {
+          "move": {
+            "name": "bind",
+            "power": 15,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "leer",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "bide",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 5
+        },
+        {
+          "move": {
+            "name": "focus-energy",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 9
+        },
+        {
+          "move": {
+            "name": "seismic-toss",
+            "power": null,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 13
+        },
+        {
+          "move": {
+            "name": "vital-throw",
+            "power": 70,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 17
+        },
+        {
+          "move": {
+            "name": "revenge",
+            "power": 60,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 21
+        },
+        {
+          "move": {
+            "name": "storm-throw",
+            "power": 60,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 25
+        },
+        {
+          "move": {
+            "name": "body-slam",
+            "power": 85,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 29
+        },
+        {
+          "move": {
+            "name": "bulk-up",
+            "power": null,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 33
+        },
+        {
+          "move": {
+            "name": "circle-throw",
+            "power": 60,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 37
+        },
+        {
+          "move": {
+            "name": "endure",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 41
+        },
+        {
+          "move": {
+            "name": "wide-guard",
+            "power": null,
+            "type": {
+              "name": "rock"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 45
+        },
+        {
+          "move": {
+            "name": "superpower",
+            "power": 120,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 49
+        },
+        {
+          "move": {
+            "name": "reversal",
+            "power": null,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 53
+        }
+      ],
+      "machineMoves": [
+        {
+          "move": {
+            "name": "strength",
+            "power": 80,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "earthquake",
+            "power": 100,
+            "type": {
+              "name": "ground"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "dig",
+            "power": 80,
+            "type": {
+              "name": "ground"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "toxic",
+            "power": null,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "double-team",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "rest",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "rock-slide",
+            "power": 75,
+            "type": {
+              "name": "rock"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "substitute",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "protect",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "swagger",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "attract",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "return",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "frustration",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "hidden-power",
+            "power": 60,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "rain-dance",
+            "power": null,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "sunny-day",
+            "power": null,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "rock-smash",
+            "power": 40,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "facade",
+            "power": 70,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "taunt",
+            "power": null,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "brick-break",
+            "power": 75,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "rock-tomb",
+            "power": 60,
+            "type": {
+              "name": "rock"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "bulk-up",
+            "power": null,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "payback",
+            "power": 50,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "fling",
+            "power": null,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "poison-jab",
+            "power": 80,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "focus-blast",
+            "power": 120,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "giga-impact",
+            "power": 150,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "stone-edge",
+            "power": 100,
+            "type": {
+              "name": "rock"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "grass-knot",
+            "power": null,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "low-sweep",
+            "power": 65,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "round",
+            "power": 60,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "retaliate",
+            "power": 70,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "bulldoze",
+            "power": 60,
+            "type": {
+              "name": "ground"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "work-up",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        }
+      ],
+      "eggMoves": [
+        {
+          "move": {
+            "name": "fire-punch",
+            "power": 75,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "ice-punch",
+            "power": 75,
+            "type": {
+              "name": "ice"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "thunder-punch",
+            "power": 75,
+            "type": {
+              "name": "electric"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "bind",
+            "power": 15,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "low-kick",
+            "power": null,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "snore",
+            "power": 50,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "sleep-talk",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "pain-split",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "helping-hand",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "superpower",
+            "power": 120,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "knock-off",
+            "power": 65,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "block",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        }
+      ],
+      "specy": {
+        "evolution_chain": {
+          "id": 274,
+          "species": [
+            {
+              "name": "throh",
+              "pre_evolution": null,
+              "evolution_condition": []
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Judo Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

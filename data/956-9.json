@@ -1,0 +1,953 @@
+{
+  "pokemon": [
+    {
+      "name": "espathra",
+      "dex_id": 956,
+      "weight": 900,
+      "height": 19,
+      "exp_yield": 168,
+      "abilities": [
+        {
+          "ability": {
+            "name": "opportunist"
+          }
+        },
+        {
+          "ability": {
+            "name": "frisk"
+          }
+        },
+        {
+          "ability": {
+            "name": "speed-boost"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "psychic"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 95,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 60,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 60,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 101,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 60,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 105,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [
+        {
+          "move": {
+            "name": "lumina-crash",
+            "power": 80,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 0
+        },
+        {
+          "move": {
+            "name": "growl",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "peck",
+            "power": 35,
+            "type": {
+              "name": "flying"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "drill-peck",
+            "power": 80,
+            "type": {
+              "name": "flying"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "feather-dance",
+            "power": null,
+            "type": {
+              "name": "flying"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "confusion",
+            "power": 50,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 5
+        },
+        {
+          "move": {
+            "name": "baby-doll-eyes",
+            "power": null,
+            "type": {
+              "name": "fairy"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 8
+        },
+        {
+          "move": {
+            "name": "disarming-voice",
+            "power": 40,
+            "type": {
+              "name": "fairy"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 11
+        },
+        {
+          "move": {
+            "name": "quick-attack",
+            "power": 40,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 15
+        },
+        {
+          "move": {
+            "name": "psybeam",
+            "power": 65,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 19
+        },
+        {
+          "move": {
+            "name": "pluck",
+            "power": 60,
+            "type": {
+              "name": "flying"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 24
+        },
+        {
+          "move": {
+            "name": "agility",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 29
+        },
+        {
+          "move": {
+            "name": "uproar",
+            "power": 90,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 34
+        },
+        {
+          "move": {
+            "name": "dazzling-gleam",
+            "power": 80,
+            "type": {
+              "name": "fairy"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 43
+        },
+        {
+          "move": {
+            "name": "psychic",
+            "power": 90,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 49
+        },
+        {
+          "move": {
+            "name": "last-resort",
+            "power": 140,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 54
+        }
+      ],
+      "machineMoves": [
+        {
+          "move": {
+            "name": "body-slam",
+            "power": 85,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "take-down",
+            "power": 90,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "psybeam",
+            "power": 65,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "hyper-beam",
+            "power": 150,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "low-kick",
+            "power": null,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "psychic",
+            "power": 90,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "agility",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "night-shade",
+            "power": null,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "confuse-ray",
+            "power": null,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "light-screen",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "reflect",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "swift",
+            "power": 60,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "rest",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "substitute",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "thief",
+            "power": 60,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "protect",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "mud-slap",
+            "power": 20,
+            "type": {
+              "name": "ground"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "sandstorm",
+            "power": null,
+            "type": {
+              "name": "rock"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "endure",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "sleep-talk",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "baton-pass",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "rain-dance",
+            "power": null,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "sunny-day",
+            "power": null,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "shadow-ball",
+            "power": 80,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "facade",
+            "power": 70,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "helping-hand",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "trick",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "skill-swap",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "hyper-voice",
+            "power": 90,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "aerial-ace",
+            "power": 60,
+            "type": {
+              "name": "flying"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "calm-mind",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "u-turn",
+            "power": 70,
+            "type": {
+              "name": "bug"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "seed-bomb",
+            "power": 80,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "energy-ball",
+            "power": 90,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "brave-bird",
+            "power": 120,
+            "type": {
+              "name": "flying"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "giga-impact",
+            "power": 150,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "zen-headbutt",
+            "power": 80,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "flash-cannon",
+            "power": 80,
+            "type": {
+              "name": "steel"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "trick-room",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "psyshock",
+            "power": 80,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "foul-play",
+            "power": 95,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "stored-power",
+            "power": 20,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "hex",
+            "power": 65,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "disarming-voice",
+            "power": 40,
+            "type": {
+              "name": "fairy"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "dazzling-gleam",
+            "power": 80,
+            "type": {
+              "name": "fairy"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "psychic-terrain",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "tera-blast",
+            "power": 80,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "pounce",
+            "power": 50,
+            "type": {
+              "name": "bug"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "uproar",
+            "power": 90,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "psych-up",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "double-edge",
+            "power": 120,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "feather-dance",
+            "power": null,
+            "type": {
+              "name": "flying"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "expanding-force",
+            "power": 80,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        }
+      ],
+      "eggMoves": [],
+      "specy": {
+        "evolution_chain": {
+          "id": 500,
+          "species": [
+            {
+              "name": "flittle",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "espathra",
+              "pre_evolution": 955,
+              "evolution_condition": [
+                {
+                  "level": 35,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Ostrich Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

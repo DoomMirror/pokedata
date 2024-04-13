@@ -1,0 +1,876 @@
+{
+  "pokemon": [
+    {
+      "name": "clawitzer",
+      "dex_id": 693,
+      "weight": 353,
+      "height": 13,
+      "exp_yield": 100,
+      "abilities": [
+        {
+          "ability": {
+            "name": "mega-launcher"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "water"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 71,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 73,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 88,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 120,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 89,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 59,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [
+        {
+          "move": {
+            "name": "water-gun",
+            "power": 40,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "splash",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "aura-sphere",
+            "power": 80,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "dark-pulse",
+            "power": 80,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "dragon-pulse",
+            "power": 85,
+            "type": {
+              "name": "dragon"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "heal-pulse",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "water-sport",
+            "power": null,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 7
+        },
+        {
+          "move": {
+            "name": "vice-grip",
+            "power": 55,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 9
+        },
+        {
+          "move": {
+            "name": "bubble",
+            "power": 40,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 12
+        },
+        {
+          "move": {
+            "name": "flail",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 16
+        },
+        {
+          "move": {
+            "name": "bubble-beam",
+            "power": 65,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 20
+        },
+        {
+          "move": {
+            "name": "swords-dance",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 25
+        },
+        {
+          "move": {
+            "name": "crabhammer",
+            "power": 100,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 30
+        },
+        {
+          "move": {
+            "name": "water-pulse",
+            "power": 60,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 34
+        },
+        {
+          "move": {
+            "name": "smack-down",
+            "power": 50,
+            "type": {
+              "name": "rock"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 42
+        },
+        {
+          "move": {
+            "name": "aqua-jet",
+            "power": 40,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 47
+        },
+        {
+          "move": {
+            "name": "muddy-water",
+            "power": 90,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 53
+        },
+        {
+          "move": {
+            "name": "dark-pulse",
+            "power": 80,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 57
+        },
+        {
+          "move": {
+            "name": "dragon-pulse",
+            "power": 85,
+            "type": {
+              "name": "dragon"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 63
+        },
+        {
+          "move": {
+            "name": "aura-sphere",
+            "power": 80,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 67
+        }
+      ],
+      "machineMoves": [
+        {
+          "move": {
+            "name": "swords-dance",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "cut",
+            "power": 50,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "surf",
+            "power": 90,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "ice-beam",
+            "power": 90,
+            "type": {
+              "name": "ice"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "hyper-beam",
+            "power": 150,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "toxic",
+            "power": null,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "double-team",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "waterfall",
+            "power": 80,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "rest",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "rock-slide",
+            "power": 75,
+            "type": {
+              "name": "rock"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "substitute",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "protect",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "sludge-bomb",
+            "power": 90,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "swagger",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "attract",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "sleep-talk",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "return",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "frustration",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "hidden-power",
+            "power": 60,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "rain-dance",
+            "power": null,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "shadow-ball",
+            "power": 80,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "facade",
+            "power": 70,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "secret-power",
+            "power": 70,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "dive",
+            "power": 80,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "u-turn",
+            "power": 70,
+            "type": {
+              "name": "bug"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "dark-pulse",
+            "power": 80,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "focus-blast",
+            "power": 120,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "giga-impact",
+            "power": 150,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "flash-cannon",
+            "power": 80,
+            "type": {
+              "name": "steel"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "venoshock",
+            "power": 65,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "smack-down",
+            "power": 50,
+            "type": {
+              "name": "rock"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "sludge-wave",
+            "power": 95,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "round",
+            "power": 60,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "scald",
+            "power": 80,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "confide",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        }
+      ],
+      "eggMoves": [
+        {
+          "move": {
+            "name": "snore",
+            "power": 50,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "icy-wind",
+            "power": 55,
+            "type": {
+              "name": "ice"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "iron-tail",
+            "power": 100,
+            "type": {
+              "name": "steel"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "helping-hand",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "bounce",
+            "power": 85,
+            "type": {
+              "name": "flying"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "water-pulse",
+            "power": 60,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "aqua-tail",
+            "power": 90,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "dragon-pulse",
+            "power": 85,
+            "type": {
+              "name": "dragon"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        }
+      ],
+      "specy": {
+        "evolution_chain": {
+          "id": 355,
+          "species": [
+            {
+              "name": "clauncher",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "clawitzer",
+              "pre_evolution": 692,
+              "evolution_condition": [
+                {
+                  "level": 37,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Howitzer Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

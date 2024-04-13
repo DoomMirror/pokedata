@@ -1,0 +1,535 @@
+{
+  "pokemon": [
+    {
+      "name": "pecharunt",
+      "dex_id": 1025,
+      "weight": 3,
+      "height": 3,
+      "exp_yield": 300,
+      "abilities": [
+        {
+          "ability": {
+            "name": "poison-puppeteer"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "poison"
+          }
+        },
+        {
+          "type": {
+            "name": "ghost"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 88,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 88,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 160,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 88,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 88,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 88,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [
+        {
+          "move": {
+            "name": "smog",
+            "power": 30,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "poison-gas",
+            "power": null,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "memento",
+            "power": null,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "astonish",
+            "power": 30,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "withdraw",
+            "power": null,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 8
+        },
+        {
+          "move": {
+            "name": "destiny-bond",
+            "power": null,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 16
+        },
+        {
+          "move": {
+            "name": "fake-tears",
+            "power": null,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 24
+        },
+        {
+          "move": {
+            "name": "parting-shot",
+            "power": null,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 32
+        },
+        {
+          "move": {
+            "name": "shadow-ball",
+            "power": 80,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 40
+        },
+        {
+          "move": {
+            "name": "malignant-chain",
+            "power": 100,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 48
+        },
+        {
+          "move": {
+            "name": "toxic",
+            "power": null,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 56
+        },
+        {
+          "move": {
+            "name": "nasty-plot",
+            "power": null,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 64
+        },
+        {
+          "move": {
+            "name": "recover",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 72
+        }
+      ],
+      "machineMoves": [
+        {
+          "move": {
+            "name": "toxic",
+            "power": null,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "night-shade",
+            "power": null,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "rest",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "substitute",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "curse",
+            "power": null,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "spite",
+            "power": null,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "protect",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "sludge-bomb",
+            "power": 90,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "endure",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "sleep-talk",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "shadow-ball",
+            "power": 80,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "imprison",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "fake-tears",
+            "power": null,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "nasty-plot",
+            "power": null,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "gunk-shot",
+            "power": 120,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "venoshock",
+            "power": 65,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "sludge-wave",
+            "power": 95,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "acid-spray",
+            "power": 40,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "foul-play",
+            "power": 95,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "hex",
+            "power": 65,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "phantom-force",
+            "power": 90,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "poltergeist",
+            "power": 110,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "tera-blast",
+            "power": 80,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        }
+      ],
+      "eggMoves": [],
+      "specy": {
+        "evolution_chain": {
+          "id": 549,
+          "species": [
+            {
+              "name": "pecharunt",
+              "pre_evolution": null,
+              "evolution_condition": []
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Subjugation Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

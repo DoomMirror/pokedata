@@ -1,0 +1,891 @@
+{
+  "pokemon": [
+    {
+      "name": "magearna",
+      "dex_id": 801,
+      "weight": 805,
+      "height": 10,
+      "exp_yield": 300,
+      "abilities": [
+        {
+          "ability": {
+            "name": "soul-heart"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "steel"
+          }
+        },
+        {
+          "type": {
+            "name": "fairy"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 80,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 95,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 115,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 130,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 115,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 65,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [
+        {
+          "move": {
+            "name": "sonic-boom",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "psybeam",
+            "power": 65,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "defense-curl",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "helping-hand",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "iron-head",
+            "power": 80,
+            "type": {
+              "name": "steel"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "shift-gear",
+            "power": null,
+            "type": {
+              "name": "steel"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "crafty-shield",
+            "power": null,
+            "type": {
+              "name": "fairy"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "gear-up",
+            "power": null,
+            "type": {
+              "name": "steel"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "lucky-chant",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 9
+        },
+        {
+          "move": {
+            "name": "aurora-beam",
+            "power": 65,
+            "type": {
+              "name": "ice"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 17
+        },
+        {
+          "move": {
+            "name": "mirror-shot",
+            "power": 65,
+            "type": {
+              "name": "steel"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 25
+        },
+        {
+          "move": {
+            "name": "mind-reader",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 33
+        },
+        {
+          "move": {
+            "name": "flash-cannon",
+            "power": 80,
+            "type": {
+              "name": "steel"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 41
+        },
+        {
+          "move": {
+            "name": "fleur-cannon",
+            "power": 130,
+            "type": {
+              "name": "fairy"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 49
+        },
+        {
+          "move": {
+            "name": "iron-defense",
+            "power": null,
+            "type": {
+              "name": "steel"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 57
+        },
+        {
+          "move": {
+            "name": "pain-split",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 65
+        },
+        {
+          "move": {
+            "name": "synchronoise",
+            "power": 120,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 73
+        },
+        {
+          "move": {
+            "name": "aura-sphere",
+            "power": 80,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 81
+        },
+        {
+          "move": {
+            "name": "heart-swap",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 89
+        },
+        {
+          "move": {
+            "name": "trump-card",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 97
+        }
+      ],
+      "machineMoves": [
+        {
+          "move": {
+            "name": "ice-beam",
+            "power": 90,
+            "type": {
+              "name": "ice"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "hyper-beam",
+            "power": 150,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "solar-beam",
+            "power": 120,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "thunderbolt",
+            "power": 90,
+            "type": {
+              "name": "electric"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "thunder-wave",
+            "power": null,
+            "type": {
+              "name": "electric"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "double-team",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "light-screen",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "reflect",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "explosion",
+            "power": 250,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "substitute",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "protect",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "false-swipe",
+            "power": 40,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "swagger",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "return",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "frustration",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "hidden-power",
+            "power": 60,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "shadow-ball",
+            "power": 80,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "brick-break",
+            "power": 75,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "calm-mind",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "gyro-ball",
+            "power": null,
+            "type": {
+              "name": "steel"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "embargo",
+            "power": null,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "focus-blast",
+            "power": 120,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "energy-ball",
+            "power": 90,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "giga-impact",
+            "power": 150,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "flash-cannon",
+            "power": 80,
+            "type": {
+              "name": "steel"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "trick-room",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "grass-knot",
+            "power": null,
+            "type": {
+              "name": "grass"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "charge-beam",
+            "power": 50,
+            "type": {
+              "name": "electric"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "round",
+            "power": 60,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "echoed-voice",
+            "power": 40,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "volt-switch",
+            "power": 70,
+            "type": {
+              "name": "electric"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "confide",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "dazzling-gleam",
+            "power": 80,
+            "type": {
+              "name": "fairy"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        }
+      ],
+      "eggMoves": [
+        {
+          "move": {
+            "name": "snore",
+            "power": 50,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "heal-bell",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "pain-split",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "helping-hand",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "signal-beam",
+            "power": 75,
+            "type": {
+              "name": "bug"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "iron-defense",
+            "power": null,
+            "type": {
+              "name": "steel"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "shock-wave",
+            "power": 60,
+            "type": {
+              "name": "electric"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "last-resort",
+            "power": 140,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "magnet-rise",
+            "power": null,
+            "type": {
+              "name": "electric"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "zen-headbutt",
+            "power": 80,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "iron-head",
+            "power": 80,
+            "type": {
+              "name": "steel"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "after-you",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        }
+      ],
+      "specy": {
+        "evolution_chain": {
+          "id": 422,
+          "species": [
+            {
+              "name": "magearna",
+              "pre_evolution": null,
+              "evolution_condition": []
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Artificial Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

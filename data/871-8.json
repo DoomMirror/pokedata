@@ -1,0 +1,669 @@
+{
+  "pokemon": [
+    {
+      "name": "pincurchin",
+      "dex_id": 871,
+      "weight": 10,
+      "height": 3,
+      "exp_yield": 152,
+      "abilities": [
+        {
+          "ability": {
+            "name": "lightning-rod"
+          }
+        },
+        {
+          "ability": {
+            "name": "electric-surge"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "electric"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 48,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 101,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 95,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 91,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 85,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 15,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [
+        {
+          "move": {
+            "name": "peck",
+            "power": 35,
+            "type": {
+              "name": "flying"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "thunder-shock",
+            "power": 40,
+            "type": {
+              "name": "electric"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "water-gun",
+            "power": 40,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 5
+        },
+        {
+          "move": {
+            "name": "charge",
+            "power": null,
+            "type": {
+              "name": "electric"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 10
+        },
+        {
+          "move": {
+            "name": "fury-attack",
+            "power": 15,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 15
+        },
+        {
+          "move": {
+            "name": "spark",
+            "power": 65,
+            "type": {
+              "name": "electric"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 20
+        },
+        {
+          "move": {
+            "name": "bubble-beam",
+            "power": 65,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 25
+        },
+        {
+          "move": {
+            "name": "recover",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 30
+        },
+        {
+          "move": {
+            "name": "curse",
+            "power": null,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 35
+        },
+        {
+          "move": {
+            "name": "electric-terrain",
+            "power": null,
+            "type": {
+              "name": "electric"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 40
+        },
+        {
+          "move": {
+            "name": "poison-jab",
+            "power": 80,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 45
+        },
+        {
+          "move": {
+            "name": "zing-zap",
+            "power": 80,
+            "type": {
+              "name": "electric"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 50
+        },
+        {
+          "move": {
+            "name": "acupressure",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 55
+        },
+        {
+          "move": {
+            "name": "discharge",
+            "power": 80,
+            "type": {
+              "name": "electric"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 60
+        }
+      ],
+      "machineMoves": [
+        {
+          "move": {
+            "name": "pin-missile",
+            "power": 25,
+            "type": {
+              "name": "bug"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "hydro-pump",
+            "power": 110,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "surf",
+            "power": 90,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "thunderbolt",
+            "power": 90,
+            "type": {
+              "name": "electric"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "thunder-wave",
+            "power": null,
+            "type": {
+              "name": "electric"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "thunder",
+            "power": 110,
+            "type": {
+              "name": "electric"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "self-destruct",
+            "power": 200,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "rest",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "substitute",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "snore",
+            "power": 50,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "reversal",
+            "power": null,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "protect",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "spikes",
+            "power": null,
+            "type": {
+              "name": "ground"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "endure",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "attract",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "sleep-talk",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "rain-dance",
+            "power": null,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "facade",
+            "power": 70,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "muddy-water",
+            "power": 90,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "brine",
+            "power": 65,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "payback",
+            "power": 50,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "assurance",
+            "power": 60,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "toxic-spikes",
+            "power": null,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "poison-jab",
+            "power": 80,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "venoshock",
+            "power": 65,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "round",
+            "power": 60,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "scald",
+            "power": 80,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "hex",
+            "power": 65,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "venom-drench",
+            "power": null,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "electric-terrain",
+            "power": null,
+            "type": {
+              "name": "electric"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "throat-chop",
+            "power": 80,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "liquidation",
+            "power": 85,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        }
+      ],
+      "eggMoves": [
+        {
+          "move": {
+            "name": "rising-voltage",
+            "power": 70,
+            "type": {
+              "name": "electric"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        }
+      ],
+      "specy": {
+        "evolution_chain": {
+          "id": 454,
+          "species": [
+            {
+              "name": "pincurchin",
+              "pre_evolution": null,
+              "evolution_condition": []
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Sea Urchin Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

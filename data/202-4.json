@@ -1,0 +1,155 @@
+{
+  "pokemon": [
+    {
+      "name": "wobbuffet",
+      "dex_id": 202,
+      "weight": 285,
+      "height": 13,
+      "exp_yield": 142,
+      "abilities": [
+        {
+          "ability": {
+            "name": "shadow-tag"
+          }
+        },
+        {
+          "ability": {
+            "name": "telepathy"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "psychic"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 190,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 33,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 58,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 33,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 58,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 33,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [
+        {
+          "move": {
+            "name": "counter",
+            "power": null,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "destiny-bond",
+            "power": null,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "safeguard",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "mirror-coat",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 1
+        }
+      ],
+      "machineMoves": [],
+      "eggMoves": [],
+      "specy": {
+        "evolution_chain": {
+          "id": 100,
+          "species": [
+            {
+              "name": "wobbuffet",
+              "pre_evolution": 360,
+              "evolution_condition": [
+                {
+                  "level": 15,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "wynaut",
+              "pre_evolution": null,
+              "evolution_condition": []
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Patient Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

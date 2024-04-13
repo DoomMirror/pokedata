@@ -1,0 +1,719 @@
+{
+  "pokemon": [
+    {
+      "name": "eevee",
+      "dex_id": 133,
+      "weight": 65,
+      "height": 3,
+      "exp_yield": 65,
+      "abilities": [
+        {
+          "ability": {
+            "name": "run-away"
+          }
+        },
+        {
+          "ability": {
+            "name": "adaptability"
+          }
+        },
+        {
+          "ability": {
+            "name": "anticipation"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "normal"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 55,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 55,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 50,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 45,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 65,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 55,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [
+        {
+          "move": {
+            "name": "tackle",
+            "power": 40,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "tail-whip",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "helping-hand",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "sand-attack",
+            "power": null,
+            "type": {
+              "name": "ground"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 8
+        },
+        {
+          "move": {
+            "name": "growl",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 15
+        },
+        {
+          "move": {
+            "name": "quick-attack",
+            "power": 40,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 22
+        },
+        {
+          "move": {
+            "name": "bite",
+            "power": 60,
+            "type": {
+              "name": "dark"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 29
+        },
+        {
+          "move": {
+            "name": "baton-pass",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 36
+        },
+        {
+          "move": {
+            "name": "take-down",
+            "power": 90,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 43
+        },
+        {
+          "move": {
+            "name": "last-resort",
+            "power": 140,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 50
+        },
+        {
+          "move": {
+            "name": "trump-card",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 57
+        }
+      ],
+      "machineMoves": [
+        {
+          "move": {
+            "name": "dig",
+            "power": 80,
+            "type": {
+              "name": "ground"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "toxic",
+            "power": null,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "double-team",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "rest",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "substitute",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "protect",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "endure",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "swagger",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "attract",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "sleep-talk",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "return",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "frustration",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "iron-tail",
+            "power": 100,
+            "type": {
+              "name": "steel"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "hidden-power",
+            "power": 60,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "rain-dance",
+            "power": null,
+            "type": {
+              "name": "water"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "sunny-day",
+            "power": null,
+            "type": {
+              "name": "fire"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "shadow-ball",
+            "power": 80,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "facade",
+            "power": 70,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "secret-power",
+            "power": 70,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "natural-gift",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "captivate",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        }
+      ],
+      "eggMoves": [
+        {
+          "move": {
+            "name": "swift",
+            "power": 60,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "snore",
+            "power": 50,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "mud-slap",
+            "power": 20,
+            "type": {
+              "name": "ground"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "helping-hand",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "last-resort",
+            "power": 140,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        }
+      ],
+      "specy": {
+        "evolution_chain": {
+          "id": 67,
+          "species": [
+            {
+              "name": "eevee",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "vaporeon",
+              "pre_evolution": 133,
+              "evolution_condition": [
+                {
+                  "level": null,
+                  "iq": null,
+                  "item": 84,
+                  "held_item": null,
+                  "trigger": 3,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "jolteon",
+              "pre_evolution": 133,
+              "evolution_condition": [
+                {
+                  "level": null,
+                  "iq": null,
+                  "item": 83,
+                  "held_item": null,
+                  "trigger": 3,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "flareon",
+              "pre_evolution": 133,
+              "evolution_condition": [
+                {
+                  "level": null,
+                  "iq": null,
+                  "item": 82,
+                  "held_item": null,
+                  "trigger": 3,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "espeon",
+              "pre_evolution": 133,
+              "evolution_condition": [
+                {
+                  "level": null,
+                  "iq": 160,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": "day"
+                }
+              ]
+            },
+            {
+              "name": "umbreon",
+              "pre_evolution": 133,
+              "evolution_condition": [
+                {
+                  "level": null,
+                  "iq": 160,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": "night"
+                }
+              ]
+            },
+            {
+              "name": "leafeon",
+              "pre_evolution": 133,
+              "evolution_condition": [
+                {
+                  "level": null,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                },
+                {
+                  "level": null,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                },
+                {
+                  "level": null,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                },
+                {
+                  "level": null,
+                  "iq": null,
+                  "item": 85,
+                  "held_item": null,
+                  "trigger": 3,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "glaceon",
+              "pre_evolution": 133,
+              "evolution_condition": [
+                {
+                  "level": null,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                },
+                {
+                  "level": null,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                },
+                {
+                  "level": null,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                },
+                {
+                  "level": null,
+                  "iq": null,
+                  "item": 885,
+                  "held_item": null,
+                  "trigger": 3,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "sylveon",
+              "pre_evolution": 133,
+              "evolution_condition": [
+                {
+                  "level": null,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                },
+                {
+                  "level": null,
+                  "iq": 160,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Evolution Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

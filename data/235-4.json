@@ -1,0 +1,224 @@
+{
+  "pokemon": [
+    {
+      "name": "smeargle",
+      "dex_id": 235,
+      "weight": 580,
+      "height": 12,
+      "exp_yield": 88,
+      "abilities": [
+        {
+          "ability": {
+            "name": "own-tempo"
+          }
+        },
+        {
+          "ability": {
+            "name": "technician"
+          }
+        },
+        {
+          "ability": {
+            "name": "moody"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "normal"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 55,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 20,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 35,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 20,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 45,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 75,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [
+        {
+          "move": {
+            "name": "sketch",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "sketch",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 11
+        },
+        {
+          "move": {
+            "name": "sketch",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 21
+        },
+        {
+          "move": {
+            "name": "sketch",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 31
+        },
+        {
+          "move": {
+            "name": "sketch",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 41
+        },
+        {
+          "move": {
+            "name": "sketch",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 51
+        },
+        {
+          "move": {
+            "name": "sketch",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 61
+        },
+        {
+          "move": {
+            "name": "sketch",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 71
+        },
+        {
+          "move": {
+            "name": "sketch",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 81
+        },
+        {
+          "move": {
+            "name": "sketch",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 91
+        }
+      ],
+      "machineMoves": [],
+      "eggMoves": [],
+      "specy": {
+        "evolution_chain": {
+          "id": 121,
+          "species": [
+            {
+              "name": "smeargle",
+              "pre_evolution": null,
+              "evolution_condition": []
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Painter Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

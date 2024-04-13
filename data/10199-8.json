@@ -1,0 +1,116 @@
+{
+  "pokemon": [
+    {
+      "name": "pikachu-gmax",
+      "dex_id": 25,
+      "weight": 10000,
+      "height": 210,
+      "exp_yield": 112,
+      "abilities": [
+        {
+          "ability": {
+            "name": "static"
+          }
+        },
+        {
+          "ability": {
+            "name": "lightning-rod"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "electric"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 35,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 55,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 40,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 50,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 50,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 90,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [],
+      "machineMoves": [],
+      "eggMoves": [],
+      "specy": {
+        "evolution_chain": {
+          "id": 10,
+          "species": [
+            {
+              "name": "pikachu",
+              "pre_evolution": 172,
+              "evolution_condition": [
+                {
+                  "level": null,
+                  "iq": 220,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "raichu",
+              "pre_evolution": 25,
+              "evolution_condition": [
+                {
+                  "level": null,
+                  "iq": null,
+                  "item": 83,
+                  "held_item": null,
+                  "trigger": 3,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "pichu",
+              "pre_evolution": null,
+              "evolution_condition": []
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Mouse Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

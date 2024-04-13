@@ -1,0 +1,155 @@
+{
+  "pokemon": [
+    {
+      "name": "magikarp",
+      "dex_id": 129,
+      "weight": 100,
+      "height": 9,
+      "exp_yield": 40,
+      "abilities": [
+        {
+          "ability": {
+            "name": "swift-swim"
+          }
+        },
+        {
+          "ability": {
+            "name": "rattled"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "water"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 20,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 10,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 55,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 15,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 20,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 80,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [
+        {
+          "move": {
+            "name": "splash",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "tackle",
+            "power": 40,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 15
+        },
+        {
+          "move": {
+            "name": "flail",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 30
+        }
+      ],
+      "machineMoves": [],
+      "eggMoves": [
+        {
+          "move": {
+            "name": "bounce",
+            "power": 85,
+            "type": {
+              "name": "flying"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        }
+      ],
+      "specy": {
+        "evolution_chain": {
+          "id": 64,
+          "species": [
+            {
+              "name": "magikarp",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "gyarados",
+              "pre_evolution": 129,
+              "evolution_condition": [
+                {
+                  "level": 20,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Fish Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

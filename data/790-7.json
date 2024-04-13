@@ -1,0 +1,165 @@
+{
+  "pokemon": [
+    {
+      "name": "cosmoem",
+      "dex_id": 790,
+      "weight": 9999,
+      "height": 1,
+      "exp_yield": 140,
+      "abilities": [
+        {
+          "ability": {
+            "name": "sturdy"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "psychic"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 43,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 29,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 131,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 29,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 131,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 37,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [
+        {
+          "move": {
+            "name": "cosmic-power",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 0
+        },
+        {
+          "move": {
+            "name": "teleport",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "cosmic-power",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        }
+      ],
+      "machineMoves": [],
+      "eggMoves": [],
+      "specy": {
+        "evolution_chain": {
+          "id": 413,
+          "species": [
+            {
+              "name": "cosmog",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "cosmoem",
+              "pre_evolution": 789,
+              "evolution_condition": [
+                {
+                  "level": 43,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "solgaleo",
+              "pre_evolution": 790,
+              "evolution_condition": [
+                {
+                  "level": 53,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "lunala",
+              "pre_evolution": 790,
+              "evolution_condition": [
+                {
+                  "level": 53,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Protostar Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

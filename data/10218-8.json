@@ -1,0 +1,107 @@
+{
+  "pokemon": [
+    {
+      "name": "sandaconda-gmax",
+      "dex_id": 844,
+      "weight": 10000,
+      "height": 220,
+      "exp_yield": 179,
+      "abilities": [
+        {
+          "ability": {
+            "name": "sand-spit"
+          }
+        },
+        {
+          "ability": {
+            "name": "shed-skin"
+          }
+        },
+        {
+          "ability": {
+            "name": "sand-veil"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "ground"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 72,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 107,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 125,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 65,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 70,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 71,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [],
+      "machineMoves": [],
+      "eggMoves": [],
+      "specy": {
+        "evolution_chain": {
+          "id": 443,
+          "species": [
+            {
+              "name": "silicobra",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "sandaconda",
+              "pre_evolution": 843,
+              "evolution_condition": [
+                {
+                  "level": 36,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Sand Snake Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

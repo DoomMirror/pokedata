@@ -1,0 +1,112 @@
+{
+  "pokemon": [
+    {
+      "name": "centiskorch-gmax",
+      "dex_id": 851,
+      "weight": 10000,
+      "height": 750,
+      "exp_yield": 184,
+      "abilities": [
+        {
+          "ability": {
+            "name": "flash-fire"
+          }
+        },
+        {
+          "ability": {
+            "name": "white-smoke"
+          }
+        },
+        {
+          "ability": {
+            "name": "flame-body"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "fire"
+          }
+        },
+        {
+          "type": {
+            "name": "bug"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 100,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 115,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 65,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 90,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 90,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 65,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [],
+      "machineMoves": [],
+      "eggMoves": [],
+      "specy": {
+        "evolution_chain": {
+          "id": 447,
+          "species": [
+            {
+              "name": "sizzlipede",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "centiskorch",
+              "pre_evolution": 850,
+              "evolution_condition": [
+                {
+                  "level": 28,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Radiator Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

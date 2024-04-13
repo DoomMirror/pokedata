@@ -1,0 +1,261 @@
+{
+  "pokemon": [
+    {
+      "name": "eevee-gmax",
+      "dex_id": 133,
+      "weight": 10000,
+      "height": 180,
+      "exp_yield": 65,
+      "abilities": [
+        {
+          "ability": {
+            "name": "run-away"
+          }
+        },
+        {
+          "ability": {
+            "name": "adaptability"
+          }
+        },
+        {
+          "ability": {
+            "name": "anticipation"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "normal"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 55,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 55,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 50,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 45,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 65,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 55,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [],
+      "machineMoves": [],
+      "eggMoves": [],
+      "specy": {
+        "evolution_chain": {
+          "id": 67,
+          "species": [
+            {
+              "name": "eevee",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "vaporeon",
+              "pre_evolution": 133,
+              "evolution_condition": [
+                {
+                  "level": null,
+                  "iq": null,
+                  "item": 84,
+                  "held_item": null,
+                  "trigger": 3,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "jolteon",
+              "pre_evolution": 133,
+              "evolution_condition": [
+                {
+                  "level": null,
+                  "iq": null,
+                  "item": 83,
+                  "held_item": null,
+                  "trigger": 3,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "flareon",
+              "pre_evolution": 133,
+              "evolution_condition": [
+                {
+                  "level": null,
+                  "iq": null,
+                  "item": 82,
+                  "held_item": null,
+                  "trigger": 3,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "espeon",
+              "pre_evolution": 133,
+              "evolution_condition": [
+                {
+                  "level": null,
+                  "iq": 160,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": "day"
+                }
+              ]
+            },
+            {
+              "name": "umbreon",
+              "pre_evolution": 133,
+              "evolution_condition": [
+                {
+                  "level": null,
+                  "iq": 160,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": "night"
+                }
+              ]
+            },
+            {
+              "name": "leafeon",
+              "pre_evolution": 133,
+              "evolution_condition": [
+                {
+                  "level": null,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                },
+                {
+                  "level": null,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                },
+                {
+                  "level": null,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                },
+                {
+                  "level": null,
+                  "iq": null,
+                  "item": 85,
+                  "held_item": null,
+                  "trigger": 3,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "glaceon",
+              "pre_evolution": 133,
+              "evolution_condition": [
+                {
+                  "level": null,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                },
+                {
+                  "level": null,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                },
+                {
+                  "level": null,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                },
+                {
+                  "level": null,
+                  "iq": null,
+                  "item": 885,
+                  "held_item": null,
+                  "trigger": 3,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "sylveon",
+              "pre_evolution": 133,
+              "evolution_condition": [
+                {
+                  "level": null,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                },
+                {
+                  "level": null,
+                  "iq": 160,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Evolution Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "pokemon": [
+    {
+      "name": "combee",
+      "dex_id": 415,
+      "weight": 55,
+      "height": 3,
+      "exp_yield": 49,
+      "abilities": [
+        {
+          "ability": {
+            "name": "honey-gather"
+          }
+        },
+        {
+          "ability": {
+            "name": "hustle"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "bug"
+          }
+        },
+        {
+          "type": {
+            "name": "flying"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 30,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 30,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 42,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 30,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 42,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 70,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [
+        {
+          "move": {
+            "name": "gust",
+            "power": 40,
+            "type": {
+              "name": "flying"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "sweet-scent",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "bug-bite",
+            "power": 60,
+            "type": {
+              "name": "bug"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 13
+        }
+      ],
+      "machineMoves": [],
+      "eggMoves": [
+        {
+          "move": {
+            "name": "swift",
+            "power": 60,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "snore",
+            "power": 50,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "mud-slap",
+            "power": 20,
+            "type": {
+              "name": "ground"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "endeavor",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "physical"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "air-cutter",
+            "power": 60,
+            "type": {
+              "name": "flying"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        },
+        {
+          "move": {
+            "name": "ominous-wind",
+            "power": 60,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "special"
+            }
+          }
+        }
+      ],
+      "specy": {
+        "evolution_chain": {
+          "id": 214,
+          "species": [
+            {
+              "name": "combee",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "vespiquen",
+              "pre_evolution": 415,
+              "evolution_condition": [
+                {
+                  "level": 21,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Tiny Bee Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

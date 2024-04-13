@@ -1,0 +1,179 @@
+{
+  "pokemon": [
+    {
+      "name": "cascoon",
+      "dex_id": 268,
+      "weight": 115,
+      "height": 7,
+      "exp_yield": 72,
+      "abilities": [
+        {
+          "ability": {
+            "name": "shed-skin"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "bug"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 50,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 35,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 55,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 25,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 25,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 15,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [
+        {
+          "move": {
+            "name": "harden",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "harden",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 7
+        }
+      ],
+      "machineMoves": [],
+      "eggMoves": [
+        {
+          "move": {
+            "name": "iron-defense",
+            "power": null,
+            "type": {
+              "name": "steel"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        }
+      ],
+      "specy": {
+        "evolution_chain": {
+          "id": 135,
+          "species": [
+            {
+              "name": "wurmple",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "silcoon",
+              "pre_evolution": 265,
+              "evolution_condition": [
+                {
+                  "level": 7,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "beautifly",
+              "pre_evolution": 266,
+              "evolution_condition": [
+                {
+                  "level": 10,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "cascoon",
+              "pre_evolution": 265,
+              "evolution_condition": [
+                {
+                  "level": 7,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "dustox",
+              "pre_evolution": 268,
+              "evolution_condition": [
+                {
+                  "level": 10,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Cocoon Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

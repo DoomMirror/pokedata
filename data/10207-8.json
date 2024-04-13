@@ -1,0 +1,107 @@
+{
+  "pokemon": [
+    {
+      "name": "garbodor-gmax",
+      "dex_id": 569,
+      "weight": 10000,
+      "height": 210,
+      "exp_yield": 166,
+      "abilities": [
+        {
+          "ability": {
+            "name": "stench"
+          }
+        },
+        {
+          "ability": {
+            "name": "weak-armor"
+          }
+        },
+        {
+          "ability": {
+            "name": "aftermath"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "poison"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 80,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 95,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 82,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 60,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 82,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 75,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [],
+      "machineMoves": [],
+      "eggMoves": [],
+      "specy": {
+        "evolution_chain": {
+          "id": 290,
+          "species": [
+            {
+              "name": "trubbish",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "garbodor",
+              "pre_evolution": 568,
+              "evolution_condition": [
+                {
+                  "level": 36,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Trash Heap Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

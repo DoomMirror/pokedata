@@ -1,0 +1,126 @@
+{
+  "pokemon": [
+    {
+      "name": "hatterene-gmax",
+      "dex_id": 858,
+      "weight": 10000,
+      "height": 260,
+      "exp_yield": 255,
+      "abilities": [
+        {
+          "ability": {
+            "name": "healer"
+          }
+        },
+        {
+          "ability": {
+            "name": "anticipation"
+          }
+        },
+        {
+          "ability": {
+            "name": "magic-bounce"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "psychic"
+          }
+        },
+        {
+          "type": {
+            "name": "fairy"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 57,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 90,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 95,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 136,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 103,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 29,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [],
+      "machineMoves": [],
+      "eggMoves": [],
+      "specy": {
+        "evolution_chain": {
+          "id": 450,
+          "species": [
+            {
+              "name": "hatenna",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "hattrem",
+              "pre_evolution": 856,
+              "evolution_condition": [
+                {
+                  "level": 32,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "hatterene",
+              "pre_evolution": 857,
+              "evolution_condition": [
+                {
+                  "level": 42,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Silent Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "pokemon": [
+    {
+      "name": "gengar-gmax",
+      "dex_id": 94,
+      "weight": 10000,
+      "height": 200,
+      "exp_yield": 225,
+      "abilities": [
+        {
+          "ability": {
+            "name": "cursed-body"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "ghost"
+          }
+        },
+        {
+          "type": {
+            "name": "poison"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 60,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 65,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 60,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 130,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 75,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 110,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [],
+      "machineMoves": [],
+      "eggMoves": [],
+      "specy": {
+        "evolution_chain": {
+          "id": 40,
+          "species": [
+            {
+              "name": "gastly",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "haunter",
+              "pre_evolution": 92,
+              "evolution_condition": [
+                {
+                  "level": 25,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "gengar",
+              "pre_evolution": 93,
+              "evolution_condition": [
+                {
+                  "level": null,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 2,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Shadow Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

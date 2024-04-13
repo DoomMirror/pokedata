@@ -1,0 +1,116 @@
+{
+  "pokemon": [
+    {
+      "name": "blastoise-gmax",
+      "dex_id": 9,
+      "weight": 10000,
+      "height": 250,
+      "exp_yield": 239,
+      "abilities": [
+        {
+          "ability": {
+            "name": "torrent"
+          }
+        },
+        {
+          "ability": {
+            "name": "rain-dish"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "water"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 79,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 83,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 100,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 85,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 105,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 78,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [],
+      "machineMoves": [],
+      "eggMoves": [],
+      "specy": {
+        "evolution_chain": {
+          "id": 3,
+          "species": [
+            {
+              "name": "squirtle",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "wartortle",
+              "pre_evolution": 7,
+              "evolution_condition": [
+                {
+                  "level": 16,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "blastoise",
+              "pre_evolution": 8,
+              "evolution_condition": [
+                {
+                  "level": 36,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Shellfish Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

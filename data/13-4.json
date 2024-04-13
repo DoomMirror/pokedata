@@ -1,0 +1,161 @@
+{
+  "pokemon": [
+    {
+      "name": "weedle",
+      "dex_id": 13,
+      "weight": 32,
+      "height": 3,
+      "exp_yield": 39,
+      "abilities": [
+        {
+          "ability": {
+            "name": "shield-dust"
+          }
+        },
+        {
+          "ability": {
+            "name": "run-away"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "bug"
+          }
+        },
+        {
+          "type": {
+            "name": "poison"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 40,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 35,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 30,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 20,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 20,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 50,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [
+        {
+          "move": {
+            "name": "poison-sting",
+            "power": 15,
+            "type": {
+              "name": "poison"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "string-shot",
+            "power": null,
+            "type": {
+              "name": "bug"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "bug-bite",
+            "power": 60,
+            "type": {
+              "name": "bug"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 15
+        }
+      ],
+      "machineMoves": [],
+      "eggMoves": [],
+      "specy": {
+        "evolution_chain": {
+          "id": 5,
+          "species": [
+            {
+              "name": "weedle",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "kakuna",
+              "pre_evolution": 13,
+              "evolution_condition": [
+                {
+                  "level": 7,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "beedrill",
+              "pre_evolution": 14,
+              "evolution_condition": [
+                {
+                  "level": 10,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Hairy Bug Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

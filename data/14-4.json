@@ -1,0 +1,156 @@
+{
+  "pokemon": [
+    {
+      "name": "kakuna",
+      "dex_id": 14,
+      "weight": 100,
+      "height": 6,
+      "exp_yield": 72,
+      "abilities": [
+        {
+          "ability": {
+            "name": "shed-skin"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "bug"
+          }
+        },
+        {
+          "type": {
+            "name": "poison"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 45,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 25,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 50,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 25,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 25,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 35,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [
+        {
+          "move": {
+            "name": "harden",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "harden",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 7
+        }
+      ],
+      "machineMoves": [],
+      "eggMoves": [
+        {
+          "move": {
+            "name": "iron-defense",
+            "power": null,
+            "type": {
+              "name": "steel"
+            },
+            "category": {
+              "name": "status"
+            }
+          }
+        }
+      ],
+      "specy": {
+        "evolution_chain": {
+          "id": 5,
+          "species": [
+            {
+              "name": "weedle",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "kakuna",
+              "pre_evolution": 13,
+              "evolution_condition": [
+                {
+                  "level": 7,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "beedrill",
+              "pre_evolution": 14,
+              "evolution_condition": [
+                {
+                  "level": 10,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Cocoon Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "pokemon": [
+    {
+      "name": "unown",
+      "dex_id": 201,
+      "weight": 50,
+      "height": 5,
+      "exp_yield": 118,
+      "abilities": [
+        {
+          "ability": {
+            "name": "levitate"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "psychic"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 48,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 72,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 48,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 72,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 48,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 48,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [
+        {
+          "move": {
+            "name": "hidden-power",
+            "power": 60,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 1
+        }
+      ],
+      "machineMoves": [],
+      "eggMoves": [],
+      "specy": {
+        "evolution_chain": {
+          "id": 99,
+          "species": [
+            {
+              "name": "unown",
+              "pre_evolution": null,
+              "evolution_condition": []
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Symbol Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

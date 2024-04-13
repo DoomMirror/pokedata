@@ -1,0 +1,194 @@
+{
+  "pokemon": [
+    {
+      "name": "wynaut",
+      "dex_id": 360,
+      "weight": 140,
+      "height": 6,
+      "exp_yield": 52,
+      "abilities": [
+        {
+          "ability": {
+            "name": "shadow-tag"
+          }
+        },
+        {
+          "ability": {
+            "name": "telepathy"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "psychic"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 95,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 23,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 48,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 23,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 48,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 23,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [
+        {
+          "move": {
+            "name": "splash",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "charm",
+            "power": null,
+            "type": {
+              "name": "fairy"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "encore",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        },
+        {
+          "move": {
+            "name": "counter",
+            "power": null,
+            "type": {
+              "name": "fighting"
+            },
+            "category": {
+              "name": "physical"
+            }
+          },
+          "level": 15
+        },
+        {
+          "move": {
+            "name": "destiny-bond",
+            "power": null,
+            "type": {
+              "name": "ghost"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 15
+        },
+        {
+          "move": {
+            "name": "safeguard",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 15
+        },
+        {
+          "move": {
+            "name": "mirror-coat",
+            "power": null,
+            "type": {
+              "name": "psychic"
+            },
+            "category": {
+              "name": "special"
+            }
+          },
+          "level": 15
+        }
+      ],
+      "machineMoves": [],
+      "eggMoves": [],
+      "specy": {
+        "evolution_chain": {
+          "id": 100,
+          "species": [
+            {
+              "name": "wobbuffet",
+              "pre_evolution": 360,
+              "evolution_condition": [
+                {
+                  "level": 15,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "wynaut",
+              "pre_evolution": null,
+              "evolution_condition": []
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Bright Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "pokemon": [
+    {
+      "name": "ditto",
+      "dex_id": 132,
+      "weight": 40,
+      "height": 3,
+      "exp_yield": 101,
+      "abilities": [
+        {
+          "ability": {
+            "name": "limber"
+          }
+        },
+        {
+          "ability": {
+            "name": "imposter"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "normal"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 48,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 48,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 48,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 48,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 48,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 48,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [
+        {
+          "move": {
+            "name": "transform",
+            "power": null,
+            "type": {
+              "name": "normal"
+            },
+            "category": {
+              "name": "status"
+            }
+          },
+          "level": 1
+        }
+      ],
+      "machineMoves": [],
+      "eggMoves": [],
+      "specy": {
+        "evolution_chain": {
+          "id": 66,
+          "species": [
+            {
+              "name": "ditto",
+              "pre_evolution": null,
+              "evolution_condition": []
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Transform Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

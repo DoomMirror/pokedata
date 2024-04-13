@@ -1,0 +1,116 @@
+{
+  "pokemon": [
+    {
+      "name": "rillaboom-gmax",
+      "dex_id": 812,
+      "weight": 10000,
+      "height": 280,
+      "exp_yield": 265,
+      "abilities": [
+        {
+          "ability": {
+            "name": "overgrow"
+          }
+        },
+        {
+          "ability": {
+            "name": "grassy-surge"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "grass"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 100,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 125,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 90,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 60,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 70,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 85,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [],
+      "machineMoves": [],
+      "eggMoves": [],
+      "specy": {
+        "evolution_chain": {
+          "id": 430,
+          "species": [
+            {
+              "name": "grookey",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "thwackey",
+              "pre_evolution": 810,
+              "evolution_condition": [
+                {
+                  "level": 16,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            },
+            {
+              "name": "rillaboom",
+              "pre_evolution": 811,
+              "evolution_condition": [
+                {
+                  "level": 35,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Drummer Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "pokemon": [
+    {
+      "name": "copperajah-gmax",
+      "dex_id": 879,
+      "weight": 10000,
+      "height": 230,
+      "exp_yield": 175,
+      "abilities": [
+        {
+          "ability": {
+            "name": "sheer-force"
+          }
+        },
+        {
+          "ability": {
+            "name": "heavy-metal"
+          }
+        }
+      ],
+      "types": [
+        {
+          "type": {
+            "name": "steel"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "base_stat": 122,
+          "stat": {
+            "name": "hp"
+          }
+        },
+        {
+          "base_stat": 130,
+          "stat": {
+            "name": "attack"
+          }
+        },
+        {
+          "base_stat": 69,
+          "stat": {
+            "name": "defense"
+          }
+        },
+        {
+          "base_stat": 80,
+          "stat": {
+            "name": "special-attack"
+          }
+        },
+        {
+          "base_stat": 69,
+          "stat": {
+            "name": "special-defense"
+          }
+        },
+        {
+          "base_stat": 30,
+          "stat": {
+            "name": "speed"
+          }
+        }
+      ],
+      "levelUpMoves": [],
+      "machineMoves": [],
+      "eggMoves": [],
+      "specy": {
+        "evolution_chain": {
+          "id": 460,
+          "species": [
+            {
+              "name": "cufant",
+              "pre_evolution": null,
+              "evolution_condition": []
+            },
+            {
+              "name": "copperajah",
+              "pre_evolution": 878,
+              "evolution_condition": [
+                {
+                  "level": 34,
+                  "iq": null,
+                  "item": null,
+                  "held_item": null,
+                  "trigger": 1,
+                  "time": ""
+                }
+              ]
+            }
+          ]
+        },
+        "category": [
+          {
+            "genus": "Copperderm Pokémon"
+          }
+        ]
+      }
+    }
+  ]
+}
